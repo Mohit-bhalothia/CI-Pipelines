@@ -1,7 +1,6 @@
 numpy
 pandas
 flask
-sklearn
-joblib
-os
+scikit-learn
+requests
 logging
